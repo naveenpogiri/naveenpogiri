@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @naveenpogiri2001@gmail.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: Present I am Strugling
+- ⚡ Fun fact: Present I am Strugling..
 
 <!---
 naveenpogiri/naveenpogiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
